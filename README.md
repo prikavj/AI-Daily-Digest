@@ -8,11 +8,11 @@ AI Daily Digest automatically fetches, summarizes, verifies, and compiles the mo
 
 ## Features
 
-- 🔍 Automated news harvesting from multiple sources
-- 📝 Intelligent article summarization
-- ✅ Fact verification against trusted sources
-- 📋 Professional formatting and compilation
-- 🔄 Daily automated digests
+- Automated news harvesting from multiple sources
+- Intelligent article summarization
+- Fact verification against trusted sources
+- Professional formatting and compilation
+- Daily automated digests
 
 ## Project Structure
 
@@ -74,7 +74,3 @@ Edit `config.yaml` to customize:
 - CrewAI 0.27+
 - OpenAI API key
 - Serper.dev API key (or alternative news API)
-
-## License
-
-MIT License 
