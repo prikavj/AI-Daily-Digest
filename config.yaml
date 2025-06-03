@@ -1,0 +1,91 @@
+# AI Daily Digest Configuration
+
+# News Sources Configuration
+news_sources:
+  - name: "TechCrunch"
+    url: "https://techcrunch.com/category/artificial-intelligence/"
+    priority: 1
+  - name: "Wired"
+    url: "https://www.wired.com/tag/artificial-intelligence/"
+    priority: 2
+  - name: "The Verge"
+    url: "https://www.theverge.com/ai-artificial-intelligence"
+    priority: 3
+  - name: "MIT Technology Review"
+    url: "https://www.technologyreview.com/topic/artificial-intelligence/"
+    priority: 4
+  - name: "VentureBeat"
+    url: "https://venturebeat.com/category/ai/"
+    priority: 5
+
+# Article Limits
+article_limits:
+  max_articles_per_day: 5
+  max_articles_per_source: 1
+
+# Time Settings
+time_settings:
+  lookback_hours: 24
+  timezone: "UTC"
+
+# Output Settings
+output:
+  format: "markdown"
+  output_dir: "./digests"
+  filename_format: "ai_digest_{date}.md"
+
+# API Settings
+api:
+  serper:
+    endpoint: "https://google.serper.dev/news"
+  openai:
+    model: "gpt-4-turbo-preview"
+    temperature: 0.7
+
+# Verification Settings
+verification:
+  min_sources: 2
+  trusted_domains:
+    # Major Tech News Sites
+    - "techcrunch.com"
+    - "wired.com"
+    - "theverge.com"
+    - "technologyreview.com"
+    - "venturebeat.com"
+    - "cnet.com"
+    - "zdnet.com"
+    - "engadget.com"
+    - "arstechnica.com"
+    # General News Sites
+    - "reuters.com"
+    - "bloomberg.com"
+    - "wsj.com"
+    - "nytimes.com"
+    - "theguardian.com"
+    - "bbc.com"
+    - "cnbc.com"
+    - "forbes.com"
+    - "fortune.com"
+    - "axios.com"
+    - "finance.yahoo.com"
+    # Tech Company Blogs
+    - "ai.googleblog.com"
+    - "blogs.microsoft.com"
+    - "aws.amazon.com"
+    - "blogs.nvidia.com"
+    - "research.facebook.com"
+    - "openai.com"
+    - "deepmind.com"
+    - "anthropic.com"
+    # Research and Academic
+    - "arxiv.org"
+    - "nature.com"
+    - "science.org"
+    - "acm.org"
+    - "ieee.org"
+    - "neurosciencenews.com"
+
+# Logging
+logging:
+  level: "INFO"
+  file: "logs/ai_digest.log" 

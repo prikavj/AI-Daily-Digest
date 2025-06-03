@@ -1,0 +1,127 @@
+LiteLLM completion() model= gpt-4o-mini; provider = openai
+2025-06-02 18:49:56,353 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 18:49:56,355 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-02 18:49:56,355 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:49:56,355 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:49:56,358 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:49:56,370 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-4o-mini; provider = openai
+2025-06-02 18:49:57,422 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 18:49:57,425 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-02 18:49:57,426 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:49:57,426 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:49:57,430 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:49:57,443 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-4o-mini; provider = openai
+2025-06-02 18:49:59,425 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 18:49:59,426 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-02 18:49:59,426 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:49:59,426 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:49:59,428 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:49:59,439 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-4o-mini; provider = openai
+2025-06-02 18:50:00,579 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 18:50:00,583 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-02 18:50:00,583 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:50:00,584 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:50:00,588 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:50:00,600 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-4o-mini; provider = openai
+2025-06-02 18:50:01,976 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 18:50:01,980 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-02 18:50:01,980 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:50:01,982 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:50:01,993 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-4o-mini; provider = openai
+2025-06-02 18:50:18,843 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 18:50:18,847 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-02 18:50:18,847 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:50:18,850 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:50:18,872 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-4o-mini; provider = openai
+2025-06-02 18:50:20,293 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 18:50:20,299 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-02 18:50:20,299 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:50:20,301 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:50:20,317 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-4o-mini; provider = openai
+2025-06-02 18:50:21,953 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 18:50:21,955 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-02 18:50:21,956 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:50:21,956 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:50:21,958 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:50:21,978 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-4o-mini; provider = openai
+2025-06-02 18:50:23,490 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 18:50:23,491 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-02 18:50:23,491 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:50:23,491 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:50:23,492 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:50:23,493 - root - INFO - Verifying claim: Nvidia rival Groq suggests that a major breakthrough in AI is imminent, according to insights from an industry expert closely involved in technology innovation.
+2025-06-02 18:50:24,411 - root - INFO - Found 0 verification sources
+2025-06-02 18:50:24,422 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-4o-mini; provider = openai
+2025-06-02 18:50:25,744 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 18:50:25,746 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-02 18:50:25,746 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:50:25,749 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:50:25,753 - root - INFO - Verifying claim: Meta is proactively pursuing a strategy to automate advertising completely through AI technology, aiming to boost efficiency and optimize ad creation processes.
+2025-06-02 18:50:26,562 - root - INFO - Found 0 verification sources
+2025-06-02 18:50:26,574 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-4o-mini; provider = openai
+2025-06-02 18:50:27,759 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 18:50:27,763 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-02 18:50:27,763 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:50:27,763 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:50:27,766 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:50:27,769 - root - INFO - Verifying claim: According to WSJ reports, Meta is making ambitious moves towards fully automating its advertising efforts with AI by the year 2026.
+2025-06-02 18:50:29,228 - root - INFO - Found 0 verification sources
+2025-06-02 18:50:29,254 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-4o-mini; provider = openai
+2025-06-02 18:50:31,067 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 18:50:31,069 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-02 18:50:31,069 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:50:31,071 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:50:31,074 - root - INFO - Verifying claim: The U.S. Food and Drug Administration has unveiled a new generative AI tool named Elsa, designed to enhance the efficiency of scientific reviews.
+2025-06-02 18:50:31,784 - root - INFO - Found 0 verification sources
+2025-06-02 18:50:31,797 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-4o-mini; provider = openai
+2025-06-02 18:50:33,320 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 18:50:33,322 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-02 18:50:33,322 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:50:33,322 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:50:33,326 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:50:33,329 - root - INFO - Verifying claim: Nvidia rival Groq suggests that a major breakthrough in AI is imminent, according to insights from an industry expert closely involved in technology innovation.
+2025-06-02 18:50:34,037 - root - INFO - Found 0 verification sources
+2025-06-02 18:50:34,054 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-4o-mini; provider = openai
+2025-06-02 18:50:35,928 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 18:50:35,936 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-02 18:50:35,936 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:50:35,940 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:50:35,945 - root - INFO - Verifying claim: Meta plans full automation of ad creation by 2026.
+2025-06-02 18:50:36,702 - root - INFO - Found 0 verification sources
+2025-06-02 18:50:36,723 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-4o-mini; provider = openai
+2025-06-02 18:50:38,517 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 18:50:38,519 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-02 18:50:38,519 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:50:38,523 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:50:38,528 - root - INFO - Verifying claim: The U.S. Food and Drug Administration has unveiled a new generative AI tool named Elsa, designed to enhance the efficiency of scientific reviews.
+2025-06-02 18:50:39,235 - root - INFO - Found 0 verification sources
+2025-06-02 18:50:39,253 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-4o-mini; provider = openai
+2025-06-02 18:50:47,783 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 18:50:47,784 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-02 18:50:47,785 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:50:47,785 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:50:47,788 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:50:47,814 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-4o-mini; provider = openai
+2025-06-02 18:51:03,417 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 18:51:03,420 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-06-02 18:51:03,420 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:51:03,420 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:51:03,423 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-4o-mini-2024-07-18
+2025-06-02 18:51:03,449 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-4o-mini; provider = openai
