@@ -1,4 +1,4 @@
-# AI Daily Digest
+# Agentic AI Daily Digest
 
 An automated system that generates daily digests of AI-related news using a multi-agent approach powered by CrewAI.
 
